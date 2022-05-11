@@ -1,0 +1,17 @@
+[
+  {
+    "email": "123@123.com",
+    "password": "9a90ab9ff5daeb9c43b1fbd7776667b2f328f0596dc89194693482c3fb0161bd4d0b9216a211956b0d4451903988ba5c7a04c5f3d01293684021fcaa4aa88174.52d5166e75513b36",
+    "id": "dd6b765d"
+  },
+  {
+    "email": "admin@admin.com",
+    "password": "f54349bfb507d1e38d8aba66d6a7a56f6b7672f89678daeabb6f8d2beffa844b6fdf539dd0fb8df6dc1f2f5f8f49aa9ca2caf6188d4f220d7429f696930f6730.1c58aecb529f1172",
+    "id": "131c2d91"
+  },
+  {
+    "email": "super@admin.com",
+    "password": "30820ab03596d8fecbbb5ba3f7d77b67f5f3c76bb82573f5bee14015fc048a5d607ca749114c17101b8e2761e882fca0db59bc1840e09adca3064ffb50d3302c.0accebb16fe3d469",
+    "id": "6abb3d6c"
+  }
+]
